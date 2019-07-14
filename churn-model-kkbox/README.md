@@ -8,7 +8,7 @@
 
 * La métrica de evaluación es <b>Log Loss</b>, donde <b>N</b> es el número de observaciones, Log es el logaritmo natural, <b>yi</b> es el objetivo binario y  <b>pi</b> es la probabilidad de predecir que <b>yi es igual a 1</b>
 
-<img src="./evaluacion.png">
+<img src="./logloss.png">
 
 
 
