@@ -12,7 +12,7 @@
 
 
 
-1. <a href="./DBAnalytics_EDA_01.ipynb">DBAnalytics_EDA_01</a>: El objetivo de este notebook es realizar una primera aproximación a los dataset de KKBOX, para ello se utilizo el framework de turi Graphlab el que permite manejo de archivos de gran volumen, despues de revisar sus principales caracteristicas, se procedio a guardar los archivos en el formato nativo de Graphlab para en analisis EDA mas en detalle y con mejor velocidad de lectura.
+1. <a href="./DBAnalytics_EDA_01.ipynb">DBAnalytics_EDA_01</a>: El objetivo de este notebook es realizar una primera aproximación a los dataset de KKBOX, para ello se utilizo el <a href="https://arxiv.org/pdf/1408.2041.pdf">framework de turi Graphlab</a> el que permite manejo de archivos de gran volumen, despues de revisar sus principales caracteristicas, se procedio a guardar los archivos en el formato nativo de Graphlab para en analisis EDA mas en detalle y con mejor velocidad de lectura.
 
 2. <a href="./DBAnalytics_EDA_02.ipynb">DBAnalytics_EDA_02</a>:
 
