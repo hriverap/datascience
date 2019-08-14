@@ -25,6 +25,14 @@ Utilizar valores de N y M que capturen comportamiento en última semana, última
 
 <a href="./DBAnalytics_EDA_02.ipynb">DBAnalytics_EDA_02</a>: El objetivo de este notebook es entender en detalle las caracteristas de los usuarios que suscribieron el servicio de KKBOX, para ello se exploraran todos los dataset disponibles por la empresa.
 
+2. <b>Sprint 2: Datos transformados II</b>
+
+En base a las funciones RFM del Sprint 1, crear nuevos features para cada variable en el dataset user_logs.csv y transactions.csv (sólo si aplica).
+Crear nuevas funciones para construir features tales como:
+Tendencias de actividad del msno entre diferentes rangos de tiempo usando diferentes variables, usando variables del dataset user_logs.csv
+Métricas de la actividad del msno usando diferentes variables del dataset transactions.csv 
+En base a las funciones implementadas (y otras definidas por cada grupo), se deben implementar al menos 300 features. 
+
 
 
 
