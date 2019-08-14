@@ -37,11 +37,11 @@ En base a las funciones implementadas (y otras definidas por cada grupo), se deb
 
 <a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_01</a>: Creaciones de features 1
 
-<a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_02</a>: Creaciones de features 2
+<a href="./Sprint 2/DBAnalytics_02.ipynb">DBAnalytics_02</a>: Creaciones de features 2
 
-<a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_03</a>: Creaciones de features 3
+<a href="./Sprint 2/DBAnalytics_03.ipynb">DBAnalytics_03</a>: Creaciones de features 3
 
-<a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_04</a>: Creaciones de features 4
+<a href="./Sprint 2/DBAnalytics_04.ipynb">DBAnalytics_04</a>: Creaciones de features 4
 
 3. <b>Sprint 3: Datos mapeados x algoritmo I</b>
 
