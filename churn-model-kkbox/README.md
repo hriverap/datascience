@@ -33,6 +33,11 @@ Tendencias de actividad del msno entre diferentes rangos de tiempo usando difere
 Métricas de la actividad del msno usando diferentes variables del dataset transactions.csv 
 En base a las funciones implementadas (y otras definidas por cada grupo), se deben implementar al menos 300 features. 
 
+<a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_01</a>: Creaciones de features 1
+<a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_02</a>: Creaciones de features 2
+<a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_03</a>: Creaciones de features 3
+<a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_04</a>: Creaciones de features 4
+
 3. <b>Sprint 3: Datos mapeados x algoritmo I</b>
 
 Implementar función que genere la variable dependiente a predecir (revisar código WSDMChurnLabeller.scala y descripción en bases de concurso Kaggle)
