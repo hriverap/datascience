@@ -25,6 +25,8 @@ Utilizar valores de N y M que capturen comportamiento en última semana, última
 
 <a href="./Sprint 1/DBAnalytics_EDA_02.ipynb">DBAnalytics_EDA_02</a>: El objetivo de este notebook es entender en detalle las caracteristas de los usuarios que suscribieron el servicio de KKBOX, para ello se exploraran todos los dataset disponibles por la empresa.
 
+<a href="./Sprint 1/DBAnalytics_RFM.ipynb">DBAnalytics_RFM</a>: Creación de features tipo RFM.
+
 2. <b>Sprint 2: Datos transformados II</b>
 
 En base a las funciones RFM del Sprint 1, crear nuevos features para cada variable en el dataset user_logs.csv y transactions.csv (sólo si aplica).
@@ -34,8 +36,11 @@ Métricas de la actividad del msno usando diferentes variables del dataset trans
 En base a las funciones implementadas (y otras definidas por cada grupo), se deben implementar al menos 300 features. 
 
 <a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_01</a>: Creaciones de features 1
+
 <a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_02</a>: Creaciones de features 2
+
 <a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_03</a>: Creaciones de features 3
+
 <a href="./Sprint 2/DBAnalytics_01.ipynb">DBAnalytics_04</a>: Creaciones de features 4
 
 3. <b>Sprint 3: Datos mapeados x algoritmo I</b>
