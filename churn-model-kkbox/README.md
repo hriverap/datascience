@@ -45,6 +45,8 @@ Implementar función que genere la variable dependiente a predecir (revisar cód
 Construir el “tablón” final que ingresará al algoritmo (particionando por train/test/validación)
 Entrenar el modelo usando el algoritmo Gradient Boosting Trees (en particular usando las implementaciones XGBoost o LightGBM), para un set de parámetros fijo (exploratorio).
 
+<a href="./Sprint 3/DBAnalytics_01.ipynb">DBAnalytics_01</a>: Tablon y Entrenamiento de modelo Gradient Boosting Trees<br>
+
 4. <b>Sprint 4: Datos mapeados x algoritmo II</b>
 
 Realizar una búsqueda de hiper-parámetros para entrenar el modelo usando el algoritmo Gradient Boosting Trees.
@@ -53,6 +55,7 @@ Tests KS univariados comparando las poblaciones Churn vs No-Churn
 Performance del modelo entrenado con y sin el feature (sensibilidad)
 Calcular el uplift del resultado final para el segmento de los top 10K msno’s. (%churn rate top 10K vs %churn rate total)
 
+<a href="./Sprint 4/DBAnalytics_01.ipynb">DBAnalytics_01</a>: Hyperparametros y medida de desempeño
 
 
 
