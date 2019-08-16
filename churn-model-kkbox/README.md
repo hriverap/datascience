@@ -55,7 +55,8 @@ Tests KS univariados comparando las poblaciones Churn vs No-Churn
 Performance del modelo entrenado con y sin el feature (sensibilidad)
 Calcular el uplift del resultado final para el segmento de los top 10K msno’s. (%churn rate top 10K vs %churn rate total)
 
-<a href="./Sprint 4/DBAnalytics_01.ipynb">DBAnalytics_01</a>: Hyperparametros y medida de desempeño
+<a href="./Sprint 4/DBAnalytics_01.ipynb">DBAnalytics_01</a>: Creción de tablas en Bigquery a partir de CSV en bucket
+<a href="./Sprint 4/DBAnalytics_02.ipynb">DBAnalytics_02</a>: Hyperparametros y medida de desempeño
 
 
 
